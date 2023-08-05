@@ -82,9 +82,6 @@ Limits and Considerations
 #include<iostream>
 #include<cmath>
 #include<vector>
-#include<stdexcept>
-#include<cassert>
-#include<complex>
 
 class Polynomial
 {
